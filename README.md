@@ -31,7 +31,7 @@ Then open as many frontends as you like
  
 /viewInventory: Displays all the items the current user has
 
-/contest: Declares the winners of a contest. Follow how I did it in the video if instructions are unclear.
+/contest: Declares the winners of a contest. These winners are unique items that (should) have already been created
 
 * Can only be done by the vendor
 
